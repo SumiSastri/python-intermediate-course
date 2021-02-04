@@ -1,0 +1,4 @@
+this is a test program to check .txt file creation 
+this is a practice to check that a second file is not written where one exists 
+python is cool 
+python file handling is like node 
